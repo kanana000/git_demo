@@ -1,4 +1,3 @@
 this is a demo_1 file
-this is a demo_1 file
-modified--this is a demo_1 file
 The demo_1 has been modified in branch master!!!
+This is in hot-fix!
